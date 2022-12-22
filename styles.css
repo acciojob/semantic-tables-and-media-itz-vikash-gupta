@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+thead{
+    background-color: tomato;
+    
+}
+tbody{
+    background-color: teal;
+}
+table{
+    
+}
